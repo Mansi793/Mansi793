@@ -1,6 +1,6 @@
 # Hi there, I'm Mansi! 👋
 
-![Profile Banner]([https://your-image-link/banner.png](https://github.com/account))
+![Profile Banner]([https://your-image-link/banner.png](https://github.com/mansi793))
 
 ## About Me
 I'm an engineer passionate about AI, machine learning, and full-stack development and research.
