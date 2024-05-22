@@ -1,5 +1,5 @@
 # Hi there, I'm Mansi! 👋
-
+I am first generation university student from rural India. I like exploring new things .
 ## About Me
 I'm an engineer passionate about AI, machine learning, and full-stack development and research.
 
