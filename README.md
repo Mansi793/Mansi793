@@ -1,7 +1,5 @@
 # Hi there, I'm Mansi! 👋
 
-![Profile Banner]([https://[your-image-link](https://media.licdn.com/dms/image/C4D03AQGQwRZS6bLpHA/profile-displayphoto-shrink_800_800/0/1654433542854?e=1721865600&v=beta&t=eOVv5MWlNcBiXKcsmmCmSOoFai4J1rTxfO0BXH5IdDk)/banner.png](https://github.com/mansi793))
-
 ## About Me
 I'm an engineer passionate about AI, machine learning, and full-stack development and research.
 
