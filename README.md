@@ -10,12 +10,12 @@ I'm an engineer passionate about AI, machine learning, and full-stack developmen
 - 💬 Ask me about anything related to AI and web development.
 - 😄 Pronouns: She/Her
 -  📫 How to reach me: mansisikarwar01@gmail.com
--  ⚡ Fun fact: I write poems, i paint, i cook and i love singing . I also do podcast in freetime.
+-  ⚡ Fun fact: I write poems, i paint, i cook  . 
 
 ## Skills
-- **Languages**: Python, JavaScript, C++ 
+- **Languages**: Python, JavaScript, C++ , HTML, CSS
 - **Frameworks**: TensorFlow, PyTorch, React
-- **Tools**: Git, Docker, Kubernetes
+- **Tools**: Git, Docker, Kubernetes , Bigquery , GCP 
 
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/mansi_sikarwar)
